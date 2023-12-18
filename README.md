@@ -1,6 +1,6 @@
 # DOCKER GO CHALLENGE - FULLCYCLE
 
-Learning about docker build muti satge
+Learning about docker build muti stage
 
 # Requeriments
 
